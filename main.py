@@ -209,6 +209,3 @@ class qr_Code_app(Tk):
 qr_Code_app()  # <------ Calling the Class function
 # break
 
-# except:
-#     messagebox.showwarning('Warning', 'You are not connected to the internet.')
-#     break
